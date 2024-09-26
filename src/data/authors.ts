@@ -1,7 +1,9 @@
 import marioImage from "../assets/authors/mario.webp";
 import joshuaImage from "../assets/authors/joshua.webp";
 import erikaImage from "../assets/authors/erika.webp";
-import meralImage from "../assets/authors/italy.png";
+import italyImage from "../assets/authors/italy.png";
+import natureImage from "../assets/authors/nature.png";
+import yogaImage from "../assets/authors/yoga.png";
 
 export interface Props {
   name: string;
@@ -16,9 +18,21 @@ export const authors: Props[] = [
   {
     name: "Meral Sahin",
     slug: "meral-sahin",
-    image: meralImage,
+    image: yogaImage,
+    bio: "Meral is an independent artist based in London.",
+  },  
+  {
+    name: "Meral Sahin",
+    slug: "meral-sahin",
+    image: italyImage,
     bio: "Meral is an independent artist based in London.",
   },    
+  {
+    name: "Meral Sahin",
+    slug: "meral-sahin",
+    image: natureImage,
+    bio: "Meral is an independent artist based in London.",
+  },  
   {
     name: "Mario Sanchez",
     slug: "mario-sanchez",
