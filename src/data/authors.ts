@@ -11,7 +11,7 @@ export const authors: Props[] = [
   {
     name: "Meral Sahin",
     slug: "meral-sahin",
-    image: "../assets/authors/italy.png",
+    image: "../assets/authors/erika.webp",
     bio: "",
   }
 ];
