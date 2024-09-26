@@ -15,6 +15,13 @@ export const categories: Props[] = [
       "Keep up with the latest tech trends and learn about the latest innovations in software development, hardware design, cybersecurity, and more.",
   },
   {
+    title: "Seascape",
+    slug: "seascape",
+    color: "blue",
+    description:
+      "Calming sea painting",
+  },
+  {
     title: "Lifestyle",
     slug: "lifestyle",
     color: "orange",
