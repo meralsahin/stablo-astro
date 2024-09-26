@@ -18,13 +18,13 @@ export const authors: Props[] = [
   {
     name: "Meral Sahin",
     slug: "meral-sahin",
-    image: yogaImage,
+    image: italyImage,
     bio: "Meral is an independent artist based in London.",
   },  
   {
     name: "Meral Sahin",
     slug: "meral-sahin",
-    image: italyImage,
+    image: yogaImage,
     bio: "Meral is an independent artist based in London.",
   },    
   {
