@@ -1,6 +1,7 @@
 import marioImage from "../assets/authors/mario.webp";
 import joshuaImage from "../assets/authors/joshua.webp";
 import erikaImage from "../assets/authors/erika.webp";
+import meralImage from "../assets/authors/italy.png";
 
 export interface Props {
   name: string;
@@ -29,5 +30,11 @@ export const authors: Props[] = [
     slug: "erika-oliver",
     image: erikaImage,
     bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
+  },
+  {
+    name: "Meral Sahin",
+    slug: "meral-sahin",
+    image: meralImage,
+    bio: "Meral is an independent artist based in London.",
   },
 ];
