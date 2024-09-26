@@ -12,35 +12,16 @@ interface Menu {
 }
 const leftmenu: Menu[] = [
   {
-    label: "Home",
+    label: "Artworks",
     href: "/",
-  },
-  {
-    label: "About",
-    href: "/about",
-  },
-  {
-    label: "Contact",
-    href: "/contact",
-  },
+  }
 ];
 
 const rightmenu: Menu[] = [
   {
-    label: "Archive",
-    href: "/archive",
-  },
-  {
-    label: "Github",
-    href: "https://github.com/web3templates/stablo-astro",
-    external: true,
-    badge: "new",
-  },
-  {
-    label: "Download",
-    href: "https://web3templates.com/templates/stablo-minimal-blog-website-template",
-    external: true,
-  },
+    label: "About",
+    href: "/about",
+  }
 ];
 
 const mobilemenu: Menu[] = [...leftmenu, ...rightmenu];
@@ -55,7 +36,7 @@ const mobilemenu: Menu[] = [...leftmenu, ...rightmenu];
           leftmenu.map((item) => (
             <a
               href={item.href}
-              class="px-5 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-blue-500">
+              class="px-5 py-2 text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-500">
               {item.label}
             </a>
           ))
@@ -74,7 +55,7 @@ const mobilemenu: Menu[] = [...leftmenu, ...rightmenu];
         <button
           id="menu"
           aria-label="Toggle Menu"
-          class="px-2 py-1 ml-auto text-gray-500 rounded-md md:hidden focus:text-blue-500 focus:outline-none dark:text-gray-300">
+          class="px-2 py-1 ml-auto text-blue-500 rounded-md md:hidden focus:text-blue-500 focus:outline-none dark:text-blue-300">
           <svg
             class="w-6 h-6 fill-current"
             xmlns="http://www.w3.org/2000/svg"
@@ -99,7 +80,7 @@ const mobilemenu: Menu[] = [...leftmenu, ...rightmenu];
           rightmenu.map((item) => (
             <a
               href={item.href}
-              class="px-5 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-blue-500">
+              class="px-5 py-2 text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-500">
               {item.label}
             </a>
           ))
@@ -113,7 +94,7 @@ const mobilemenu: Menu[] = [...leftmenu, ...rightmenu];
           mobilemenu.map((item, index) => (
             <a
               href={item.href}
-              class="px-5 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-blue-500"
+              class="px-5 py-2 text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-500"
               target={item.external ? "_blank" : ""}
               rel={item.external ? "noopener" : ""}>
               {item.label}
