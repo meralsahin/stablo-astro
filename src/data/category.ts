@@ -17,7 +17,7 @@ export const categories: Props[] = [
   {
     title: "Seascape",
     slug: "seascape",
-    color: "blue",
+    color: "orange",
     description:
       "Calming sea painting",
   },
