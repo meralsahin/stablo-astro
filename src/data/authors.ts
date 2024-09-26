@@ -14,6 +14,12 @@ export type Author = Props;
 
 export const authors: Props[] = [
   {
+    name: "Meral Sahin",
+    slug: "meral-sahin",
+    image: meralImage,
+    bio: "Meral is an independent artist based in London.",
+  },    
+  {
     name: "Mario Sanchez",
     slug: "mario-sanchez",
     image: marioImage,
@@ -30,11 +36,5 @@ export const authors: Props[] = [
     slug: "erika-oliver",
     image: erikaImage,
     bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
-  },
-  {
-    name: "Meral Sahin",
-    slug: "meral-sahin",
-    image: meralImage,
-    bio: "Meral is an independent artist based in London.",
   },
 ];
