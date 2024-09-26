@@ -5,7 +5,7 @@ publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/coral.png"
 category: "floral"
 author: "mario-sanchez"
-tags: [peonies, coral]
+tags: [coral, peonies, family]
 ---
 
 This one is a family of 3. Mum, dad, and their child. I love the texture of the thick layers in this one.  
