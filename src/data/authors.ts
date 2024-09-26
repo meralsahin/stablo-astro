@@ -1,3 +1,6 @@
+import marioImage from "../assets/authors/mario.webp";
+import erikaImage from "../assets/authors/erika.webp";
+
 export interface Props {
   name: string;
   slug: string;
@@ -9,9 +12,15 @@ export type Author = Props;
 
 export const authors: Props[] = [
   {
-    name: "Meral Sahin",
-    slug: "meral-sahin",
-    image: "../assets/authors/erika.webp",
-    bio: "",
-  }
+    name: "Mario Sanchez",
+    slug: "mario-sanchez",
+    image: marioImage,
+    bio: "Mario is a Staff Engineer specialising in Frontend at Vercel, as well as being a co-founder of Acme and the content management system Sanity. Prior to this, he was a Senior Engineer at Apple.",
+  },
+  {
+    name: "Erika Oliver",
+    slug: "erika-oliver",
+    image: erikaImage,
+    bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
+  },
 ];
