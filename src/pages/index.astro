@@ -15,7 +15,7 @@ import { latestPosts } from "@/utils/content";
 <Layout title="">
   <Container>
     <main>
-      <div class="grid gap-10 lg:gap-10 md:grid-cols-2">
+      <!-- <div class="grid gap-10 lg:gap-10 md:grid-cols-2">
         {
           latestPosts
             .slice(0, 2)
@@ -23,11 +23,11 @@ import { latestPosts } from "@/utils/content";
               <Postlist post={post} aspect="landscape" preloadImage={true} />
             ))
         }
-      </div>
+      </div> -->
       <div class="grid gap-10 mt-10 lg:gap-10 md:grid-cols-2 xl:grid-cols-3">
         {
           latestPosts
-            .slice(2)
+            // .slice(2)
             .map((post) => <Postlist post={post} aspect="square" />)
         }
       </div>
