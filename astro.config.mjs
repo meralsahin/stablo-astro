@@ -7,6 +7,9 @@ import icon from "astro-icon";
 
 import { remarkReadingTime } from "./src/utils/all";
 
+import vercel from '@astrojs/vercel/serverless';
+
+
 export default defineConfig({
   site: "https://stablo-astro.web3templates.com",
   markdown: {
@@ -14,5 +17,9 @@ export default defineConfig({
     rehypePlugins: ["rehype-plugin-image-native-lazy-loading"],
     extendDefaultPlugins: true,
   },
+  output: 'server',
+  adapter: vercel({
+    webAnalytics: { enabled: true }
+  }),
   integrations: [tailwind(), mdx(), sitemap(), icon()],
 });
