@@ -1,0 +1,21 @@
+---
+import Container from "@/components/container.astro";
+import Postlist from "@/components/postlist.astro";
+import Layout from "@/layouts/Layout.astro";
+import { latestPosts } from "@/utils/content";
+import { Image } from "astro:assets";
+import logoImage from "@/assets/soon.png";
+
+---
+
+<Layout title="NFTs">
+  <Container>
+    <main>
+      <div class="flex items-center justify-between w-full md:w-auto">
+        <a class="w-28 dark:hidden" href="/">
+          <Image src={logoImage} alt="Logo" />
+        </a>
+    </main>
+  </Container>
+</Layout>
+
