@@ -11,7 +11,7 @@ import vercel from '@astrojs/vercel/serverless';
 
 
 export default defineConfig({
-  site: "https://stablo-astro.web3templates.com",
+  site: "https://www.meralsahin.com",
   markdown: {
     remarkPlugins: [remarkReadingTime],
     rehypePlugins: ["rehype-plugin-image-native-lazy-loading"],
@@ -23,3 +23,4 @@ export default defineConfig({
   }),
   integrations: [tailwind(), mdx(), sitemap(), icon()],
 });
+
