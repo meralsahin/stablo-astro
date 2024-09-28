@@ -88,7 +88,7 @@ const category = categories.find(
   </Container>
 
   <div
-    class="relative z-0 max-w-screen-lg mx-auto overflow-hidden lg:rounded-lg aspect-video">
+    class="relative z-0 max-w-screen-lg mx-auto overflow-hidden lg:rounded-lg">
     {
       post.data.image && (
         <Picture
@@ -96,7 +96,7 @@ const category = categories.find(
           widths={[200, 400, 800]}
           sizes="(max-width: 640px) 90vw, 480px"
           width={1024}
-          // height={576}
+          height={576}
           alt="Thumbnail"
           loading="eager"
           class="w-full"
