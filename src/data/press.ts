@@ -13,6 +13,6 @@ export const pressItems: PressItem[] = [
   {
     title: "8th Turkish Community Art Exhibition",
     url: "https://yeelondon.org.uk/8thtcae/",
-    image: "https://yeelondon.org.uk/wp-content/uploads/2025/01/8thTCAE-1024x1024.jpg",
+    image: "https://yeelondon.org.uk/wp-content/uploads/2026/02/8th-TCAE-Launch-Banner-Header-scaled.jpg",
   },
 ];
