@@ -8,4 +8,4 @@ author: "mario-sanchez"
 tags: [sunset, sky, sea]
 ---
 
-Pink clouds and a peachy sunset, like a juicy ripe peach. It casts a mysterious yet vibrant air over the ocean waves; a moment where light and shadow dance. A mystery full of life and energy.
+Pink clouds and a peachy sunset, like a juicy ripe peach. It casts a mysterious yet vibrant air over the ocean waves; a moment where light and shadow dance.
