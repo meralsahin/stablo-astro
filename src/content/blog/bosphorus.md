@@ -1,6 +1,6 @@
 ---
 title: "Bosphorus"
-excerpt: "Bosphorus is a seascape painting."
+excerpt: "Bosphorus is a seascape oil painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/bosphorus.png"
 category: "seascape"
