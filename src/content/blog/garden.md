@@ -1,6 +1,6 @@
 ---
 title: "Azalea Through My Garden"
-excerpt: "Azalea is a seascape oil on acrylic painting."
+excerpt: "Azalea Through My Garden is a seascape oil on acrylic painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/garden.png"
 category: "floral"
