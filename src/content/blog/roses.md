@@ -4,7 +4,7 @@ excerpt: "Happy Roses is a floral oil on acrylic painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/roses.png"
 category: "floral"
-author: "mario-sanchez"
+author: "meral-sahin"
 tags: [love, happy, roses]
 ---
 

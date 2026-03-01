@@ -4,7 +4,7 @@ excerpt: "Freedom is a seascape oil on acrylic painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/freedom.png"
 category: "seascape"
-author: "mario-sanchez"
+author: "meral-sahin"
 tags: [sea, birds, dolphins]
 ---
 

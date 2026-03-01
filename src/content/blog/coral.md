@@ -4,7 +4,7 @@ excerpt: "Coral Peonies is a floral oil painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/coral.png"
 category: "floral"
-author: "mario-sanchez"
+author: "meral-sahin"
 tags: [coral, peonies, family]
 ---
 

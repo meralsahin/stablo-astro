@@ -4,7 +4,7 @@ excerpt: "Sunrise At The Caldera is a seascape oil painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/sunrise.png"
 category: "seascape"
-author: "mario-sanchez"
+author: "meral-sahin"
 tags: [aegean, sunrise, santorini]
 ---
 

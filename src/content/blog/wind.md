@@ -4,7 +4,7 @@ excerpt: "Gone With The Wind is a floral oil on acrylic painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/wind.png"
 category: "floral"
-author: "mario-sanchez"
+author: "meral-sahin"
 tags: [peonies, summer, breeze]
 ---
 

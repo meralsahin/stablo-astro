@@ -4,7 +4,7 @@ excerpt: "Bougainvillea At My Window is a seascape oil on acrylic painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/window.png"
 category: "seascape"
-author: "mario-sanchez"
+author: "meral-sahin"
 tags: [aegean, bougainvillea, dance]
 ---
 
