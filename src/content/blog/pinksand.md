@@ -2,7 +2,7 @@
 title: "Ayvalık"
 excerpt: "Ayvalık is a seascape oil painting."
 publishDate: "2024-05-30T11:39:36.050Z"
-image: "../../assets/blog/sand.png"
+image: "../../assets/blog/pinksand.png"
 category: "seascape"
 author: "mario-sanchez"
 tags: [aegean, sand, sea]
