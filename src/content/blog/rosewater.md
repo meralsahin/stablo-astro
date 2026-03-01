@@ -8,6 +8,6 @@ author: "meral-sahin"
 tags: [pink, rosewater, sea]
 ---
 
-Pink petals floating on turquoise water. I can almost feel the gentle, sweet and sour scent of rosewater. The perfume of the roses we populated from our old summer house's garden and brought to every other garden we owned.
+Pink petals floating on turquoise water. I can almost feel the gentle sweet lemon scent of rosewater. The perfume of the roses we transplanted from our old summer house garden and brought to every other garden we owned.
 
 Details: 20 x 20 cm oil on acrylic painting
