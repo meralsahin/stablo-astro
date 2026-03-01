@@ -9,6 +9,3 @@ tags: [coral, peonies, family]
 ---
 
 This one is a family of 3. Mum, dad, and their child. I love the texture of the thick layers in this one.  
-
-
-

@@ -9,6 +9,3 @@ tags: [dragonflower, resilience]
 ---
 
 I used to play with dragon flowers when I was a child, squeezing their sides to open up their mouth. I remember it grew everywhere with little effort. Such a resilient plant. It had no problem standing up tall in adverse conditions. 
-
-
-

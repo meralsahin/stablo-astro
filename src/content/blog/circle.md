@@ -9,6 +9,3 @@ tags: [surfer, waves, circle]
 ---
 
 Waves as high as sky. It reminds me of Sydney beaches. I imagine a surfer peeking through the waves, can you see?
-
-
-
