@@ -8,4 +8,4 @@ author: "mario-sanchez"
 tags: [aegean, sunrise, santorini]
 ---
 
-This piece takes me back to Oia, Santorini. I woke up early with my father to photograph the sun beginning its climb over the Caldera. The energy there is pure magic. A moment of total serenity. 
+This piece takes me back to Oia, Santorini. I remember waking up early with my father to photograph the sun beginning its climb over the Caldera. The energy there is pure magic. A moment of total serenity. 

@@ -1,6 +1,6 @@
 ---
-title: "Patara"
-excerpt: "Patara is a seascape oil painting."
+title: "Caretta Caretta"
+excerpt: "Caretta Caretta is a seascape oil painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/seafoams.png"
 category: "seascape"
