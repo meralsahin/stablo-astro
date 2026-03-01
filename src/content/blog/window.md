@@ -5,7 +5,7 @@ publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/window.png"
 category: "seascape"
 author: "mario-sanchez"
-tags: [aegean, olivetree, bougainvillea, dance]
+tags: [aegean, bougainvillea, dance]
 ---
 
 Aegean coast. My favourite place to be. It’s all about balance, an olive tree, and bougainvillea blooms dancing in harmony. 
