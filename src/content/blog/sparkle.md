@@ -9,3 +9,5 @@ tags: [bodrum, home, sea]
 ---
 
 This piece reminds me of Bodrum. It brings back childhood memories of watching the sparkles made by fishes dancing under the sun. Always have, always will. 
+
+Details: 15 x 15 cm oil painting

@@ -9,3 +9,5 @@ tags: [peony, family]
 ---
 
 Peonies. My favourite flowers. Their petals are so delicate and ephemeral, yet that’s what makes them so special. This one is a family of 4. I like to think the larger blooms are the parents, with two children, one of them a newly blossomed newborn. 
+
+Details: 16 x 26 cm oil painting

@@ -9,3 +9,5 @@ tags: [aegean, sand, sea]
 ---
 
 When I finished this painting, a friend immediately said, 'This is Ayvalık!'. Although I have never been, I decided to name it that because of the pure excitement she felt upon seeing it. It's nice to see how everyone can feel a piece of themselves, their home, in each painting. I love the Aegean coast, so for me, it worked.
+
+Details: 25 x 40 cm oil painting

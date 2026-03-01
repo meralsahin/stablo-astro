@@ -9,3 +9,5 @@ tags: [peonies, summer, breeze]
 ---
 
 Light pink petals dancing in the summer breeze. It’s a captivating peony that feels as if it’s ready to carry you wherever the wind takes it. 
+
+Details: 20 x 20 cm oil on acrylic painting

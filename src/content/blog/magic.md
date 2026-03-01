@@ -9,3 +9,5 @@ tags: [wisteria, reunion, soulmate]
 ---
 
 One of my favourite paintings. I love the wisteria flowers dancing in the air. It also has some unexpected surprises. It looks like two souls reuniting in the middle, can’t you tell?
+
+Details: 75 x 90 cm oil on acrylic painting

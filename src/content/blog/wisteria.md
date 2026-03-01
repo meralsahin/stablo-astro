@@ -9,3 +9,5 @@ tags: [wisteria, magical, garden]
 ---
 
 I feel lost in an enchanted forest looking at this wisteria. Bright lights peeking through its flowers, it’s inviting you to go to its magical garden. I love it when it blooms in May here in London. I finally have a blooming one in my garden called Amethyst Falls, but having it as a painting means I can enjoy it all year round.
+
+Details: 40 x 40 cm oil painting

@@ -9,3 +9,5 @@ tags: [sunset, sky, sea]
 ---
 
 Pink clouds and a peachy sunset, like a juicy ripe peach. It casts a mysterious yet vibrant air over the ocean waves; a moment where light and shadow dance.
+
+Details: 61 x 76 cm oil on acrylic painting

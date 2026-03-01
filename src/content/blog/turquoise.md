@@ -9,3 +9,5 @@ tags: [turquoise, blue, turkiye]
 ---
 
 Nothing more relaxing to me than being by the sea. My homeland surrounded by four seas, I just can’t get enough of it. It is what I miss the most living in London. 
+
+Details: 15 x 15 cm oil painting

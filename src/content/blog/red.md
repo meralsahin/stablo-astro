@@ -9,3 +9,5 @@ tags: [sunset, sky, sea]
 ---
 
 This one is a depiction of the sunset at my hometown in Silivri, Istanbul. The sunset there looks just like this. Almost like a celebratory explosion of the pomegranates across the sky. 
+
+Details: 16 x 26 cm oil painting

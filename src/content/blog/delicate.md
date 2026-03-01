@@ -9,3 +9,5 @@ tags: [delicate, pink, ballet]
 ---
 
 Blush pink petals as delicate as soft tulle. Reminds me of a ballet recital. 
+
+Details: 50 x 50 cm oil on acrylic painting

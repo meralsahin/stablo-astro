@@ -9,3 +9,5 @@ tags: [azalea, gift, father]
 ---
 
 This painting is a nod to my father's gift, who visited me in spring with a pink coral azalea. I loved it so much that I had to make it eternal on the canvas. Can you see the light shining through the butterfly wings?
+
+Details: 30 x 120 cm oil on acrylic painting
