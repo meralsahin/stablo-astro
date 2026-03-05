@@ -2,7 +2,7 @@
 title: "Mother's Day Every Day"
 excerpt: "Mother's Day Every Day is a floral oil painting."
 publishDate: "2024-05-30T11:39:36.050Z"
-image: "../../assets/blog/mothers.png"
+image: "../../assets/blog/mother.png"
 category: "floral"
 author: "meral-sahin"
 tags: [mothers, love, grateful]
