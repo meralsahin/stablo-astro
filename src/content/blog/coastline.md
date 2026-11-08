@@ -8,6 +8,6 @@ author: "meral-sahin"
 tags: [coastline, home, sea]
 ---
 
-Breathe it in. Breathe it out. 
+It has been a year of awareness, discovery, and self-love. The breath is the constant that accompanies us from birth. A moment to breathe in and breathe out. Chanting, I am here now in this. It is a gift always wtih us; that is why it is called present. 
 
 Details: 60 x 76 cm oil painting
