@@ -1,6 +1,6 @@
 ---
-title: "Love"
-excerpt: "Love is a seascape oil on acrylic painting."
+title: "Everlasting Love"
+excerpt: "Everlasting Love is a seascape oil on acrylic painting."
 publishDate: "2024-05-30T11:39:36.050Z"
 image: "../../assets/blog/peach.png"
 category: "seascape"
