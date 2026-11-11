@@ -8,6 +8,6 @@ author: "meral-sahin"
 tags: [sunset, sky, sea]
 ---
 
-Pink clouds and a peachy sunset, like a romantic love. It casts a mysterious yet vibrant air over the ocean waves; a moment where light and shadow dance. Feels like two hands reaching each other meeting at the sunset. The ocean representing the breath of air from all the intense passion. Nature has its own language. Everlasting and timeless. 
+Pink clouds and a peachy sunset, like a romantic love. It casts a mysterious yet vibrant air over the ocean waves; a moment where light and shadow dance. Feels like hands reaching each other and meeting at the sunset. The ocean representing the breath of air from all the intense passion. Nature has its own language. Everlasting and timeless. Rooted in Alevi heritage, walking with love and offering love for the creator and all its creation. 
 
 Details: 61 x 76 cm oil on acrylic painting
